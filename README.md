@@ -1,10 +1,10 @@
-### 👋 Hi there, my name's Matthew
-### 💬 I'm a marketer turned data enthusiast
-### 💬 I started in data science and I've now broadened my scope to data engineering
-### 💬 I've recently graduated from AiCore and I'm looking for a friendly team to join   
-### 🌱 I’m currently learning... how to create a profile README ;)
-### 📫 Feel free to say hello :) https://www.linkedin.com/in/matthew-m-a847349/
-### ⚡ Fun fact: I've played chess internationally and I love talking all things biochemistry.  
+#### 👋 Hi there, my name's Matthew
+#### 💬 I'm a marketer turned data enthusiast
+#### 💬 I started in data science and I've now broadened my scope to data engineering
+#### 💬 I've recently graduated from AiCore and I'm looking for a friendly team to join   
+#### 🌱 I’m currently learning... how to create a profile README ;)
+#### 📫 Feel free to say hello :) https://www.linkedin.com/in/matthew-m-a847349/
+#### ⚡ Fun fact: I've played chess internationally and I love talking all things biochemistry.  
 
 <!--
 **mrmarq1/mrmarq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

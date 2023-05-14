@@ -3,6 +3,7 @@
 #### 💬 I started in data science and I've now broadened my scope to data engineering
 #### 💬 I've recently graduated from AiCore and I'm looking for a friendly team to join   
 #### 🌱 I’m currently learning... how to create a profile README ;)
+#### 🌱 Other than that I'm going down bit of a Bayesian rabbit hole (fyi my priors were that it is round and at least 4ft deep).
 #### 📫 Feel free to say hello :) [LinkedIn](https://www.linkedin.com/in/matthew-m-a847349/)
 #### ⚡ Fun fact: I've played chess internationally and one of my hobbies is biochemistry (yeah, not boring at all 😄)   
 

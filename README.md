@@ -2,11 +2,9 @@
 #### 💬 I'm a marketer turned data enthusiast
 #### 💬 I started in data science and I've now broadened my scope to data engineering and application development.
 #### 💬 I've recently graduated from AiCore and I'm on the old job hunt looking for a friendly team to join   
-#### 🌱 I'm currently learning all things functional and distributed with the goal of building an event-driven application that can integrate my data science knowledge   
-#### 🌱 Other than that I'm always exploring Bayesian rabbit holes (fyi my prior beliefs include they're round, at least 4ft deep and contain white rabbits)
 #### 📫 Feel free to say hello :) [LinkedIn](https://www.linkedin.com/in/matthew-m-a847349/)
-#### ⚡ Fun fact: I've played chess internationally and one of my hobbies is biochemistry (yeah, not boring at all🤓😄)   
-
+#### ⚡ Fun fact 1: I've played chess internationally and one of my hobbies is biochemistry (yeah, not boring at all🤓😄)   
+#### ⚡ Fun fact 2: I'm currently exploring a Bayesian rabbit hole (fyi my prior beliefs include it's round, at least 4ft deep and contains a white rabbit)
 <!--
 **mrmarq1/mrmarq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
 #### 💬 I've recently graduated from AiCore and I'm on the old job hunt looking for a friendly team to join   
 #### 📫 Feel free to say hello :) [LinkedIn](https://www.linkedin.com/in/matthew-m-a847349/)
 #### ⚡ Fun fact 1: I've played chess internationally and one of my hobbies is biochemistry (yeah, not boring at all🤓😄)   
-#### ⚡ Fun fact 2: I'm currently exploring a Bayesian rabbit hole (fyi my prior beliefs include it's round, at least 4ft deep and contains a white rabbit)
+#### ⚡ Fun fact 2: I'm currently exploring concurrent/parallel workflows and the odd Bayesian rabbit hole (fyi my prior beliefs include they're round, at least 4ft deep and contain white rabbits)
 <!--
 **mrmarq1/mrmarq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
